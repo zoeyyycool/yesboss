@@ -1,0 +1,69 @@
+{
+  "说明": "批量搜索配置文件 - 广州AI客服、智能客服岗位（8个关键词）",
+  "tasks": [
+    {
+      "name": "广州AI客服",
+      "query": "AI客服",
+      "city": "101280100",
+      "output_file": "jobs_广州AI客服_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州智能客服",
+      "query": "智能客服",
+      "city": "101280100",
+      "output_file": "jobs_广州智能客服_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州客服产品",
+      "query": "客服产品",
+      "city": "101280100",
+      "output_file": "jobs_广州客服产品_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州对话系统",
+      "query": "对话系统",
+      "city": "101280100",
+      "output_file": "jobs_广州对话系统_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州客服运营",
+      "query": "客服运营",
+      "city": "101280100",
+      "output_file": "jobs_广州客服运营_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州AI产品经理",
+      "query": "AI产品经理",
+      "city": "101280100",
+      "output_file": "jobs_广州AI产品经理_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州智能对话",
+      "query": "智能对话",
+      "city": "101280100",
+      "output_file": "jobs_广州智能对话_final.json",
+      "degree": "203"
+    },
+    {
+      "name": "广州客服系统",
+      "query": "客服系统",
+      "city": "101280100",
+      "output_file": "jobs_广州客服系统_final.json",
+      "degree": "203"
+    }
+  ],
+  "global_settings": {
+    "scroll_n": 8,
+    "filter_tags": [],
+    "blacklist": [],
+    "output_format": "json",
+    "merge_all_results": true,
+    "merge_output_file": "jobs_广州AI智能客服_最终50个.json"
+  }
+}
